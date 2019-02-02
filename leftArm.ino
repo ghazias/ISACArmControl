@@ -1,3 +1,5 @@
+// Left arm arduino control
+
 char receivedChar;
 int receivedInt;
 boolean newData = false;
